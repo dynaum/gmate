@@ -59,6 +59,7 @@ please fill an issue in <http://github.com/gmate/gmate/issues>
 * **Rails Hotkeys**. Navigation in Rails Project Files.
 * **Regex Search Replace**. Search and replace with regular expressions.
 * **Smart Indent**. Smart Indentation regex based.
+* **SplitView2**. Alternate SplitView plugin. (v3.0, 5/26/10: Right-click tab submenu, minor buxfixes.) Download: <http://www.psyguygames.com/SplitView3.0.tar.gz>
 * **Tabulation**. Auto set tabs and spaces based on file type.
 * **Text Tools**. Some text manipulation improvements (adapted from line tools).
 * **TextMate Style Autocompletion**. Better autocompletion. Tap `Esc` to cycle through the available completions.
